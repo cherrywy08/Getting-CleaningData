@@ -1,4 +1,4 @@
 Getting-CleaningData
 ====================
 
-Getting and Cleaning Data Course Project (Coursera)
+## This document is to explain how run_analysis program works, and generates the clean data set.
