@@ -8,16 +8,16 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 **Data Dictionary**
 
-**ActivityLevel** 
-Description: Activity names
+**ActivityLevel**  
+Description: Activity names  
 Range: There are six activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-**Subject** 
-Description: Subject ID
+**Subject**  
+Description: Subject ID  
 Range: there are 30 subjects in the experiment.
 
-**tBodyAcc-mean()-X** 
-Description: The average of the mean value of the body acceleration signals in X dimension for the subject and the activity
+**tBodyAcc-mean()-X**  
+Description: The average of the mean value of the body acceleration signals in X dimension for the subject and the activity  
 Unit: metre per second squared
 
 **tBodyAcc-mean()-Y**
