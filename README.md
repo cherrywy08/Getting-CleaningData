@@ -40,3 +40,5 @@ Split the merged data set according to activity label and subject. Calculate the
 Program line 34 - 38:
 In the newly created data set, row names are combinations of subjects and activities. Create two new variables "ActivityLevel" & "Subject" in the clean data set. Extract subject ID and activity name from row names for each record, and assign them to the newly created variable.
 
+Program line 40:
+Write the clean data set into "clean_data.txt" in working directory.

@@ -37,3 +37,4 @@ rownames(splitId) <- NULL
 colnames(splitId) <- c("ActivityLevel", "Subject")
 clean_data <- as.data.frame(cbind(splitId, clean_data))
 
+write.table(clean_data, "clean_data.txt")
