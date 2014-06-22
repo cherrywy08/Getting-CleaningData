@@ -20,160 +20,160 @@ Range: there are 30 subjects in the experiment.
 Description: The average of the mean value of the body acceleration signals in X dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAcc-mean()-Y**
-Description: The average of the mean value of the body acceleration signals in Y dimension for the subject and the activity
+**tBodyAcc-mean()-Y**  
+Description: The average of the mean value of the body acceleration signals in Y dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAcc-mean()-Z**
-Description: The average of the mean value of the body acceleration signals in Z dimension for the subject and the activity
+**tBodyAcc-mean()-Z**  
+Description: The average of the mean value of the body acceleration signals in Z dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAcc-std()-X**
-Description: The average of the standard deviation of the body acceleration signals in X dimension for the subject and the activity
+**tBodyAcc-std()-X**  
+Description: The average of the standard deviation of the body acceleration signals in X dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAcc-std()-Y**
-Description: The average of the standard deviation of the body acceleration signals in Y dimension for the subject and the activity
+**tBodyAcc-std()-Y**  
+Description: The average of the standard deviation of the body acceleration signals in Y dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAcc-std()-Z**
-Description: The average of the standard deviation of the body acceleration signals in Z dimension for the subject and the activity
+**tBodyAcc-std()-Z**  
+Description: The average of the standard deviation of the body acceleration signals in Z dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tGravityAcc-mean()-X**
-Description: The average of the mean value of the gravity acceleration signals in X dimension for the subject and the activity
+**tGravityAcc-mean()-X**  
+Description: The average of the mean value of the gravity acceleration signals in X dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tGravityAcc-mean()-Y**
-Description: The average of the mean value of the gravity acceleration signals in Y dimension for the subject and the activity
+**tGravityAcc-mean()-Y**  
+Description: The average of the mean value of the gravity acceleration signals in Y dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tGravityAcc-mean()-Z**
-Description: The average of the mean value of the gravity acceleration signals in Z dimension for the subject and the activity
+**tGravityAcc-mean()-Z**  
+Description: The average of the mean value of the gravity acceleration signals in Z dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tGravityAcc-std()-X**
-Description: The average of the standard deviation of the gravity acceleration signals in X dimension for the subject and the activity
+**tGravityAcc-std()-X**  
+Description: The average of the standard deviation of the gravity acceleration signals in X dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tGravityAcc-std()-Y**
-Description: The average of the standard deviation of the gravity acceleration signals in Y dimension for the subject and the activity
+**tGravityAcc-std()-Y**  
+Description: The average of the standard deviation of the gravity acceleration signals in Y dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tGravityAcc-std()-Z**
-Description: The average of the standard deviation of the gravity acceleration signals in Z dimension for the subject and the activity
+**tGravityAcc-std()-Z**  
+Description: The average of the standard deviation of the gravity acceleration signals in Z dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAccJerk-mean()-X**
-Description: The average of the mean value of the body linear acceleration Jerk signals in X dimension for the subject and the activity
+**tBodyAccJerk-mean()-X**  
+Description: The average of the mean value of the body linear acceleration Jerk signals in X dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAccJerk-mean()-Y**
-Description: The average of the mean value of the body linear acceleration Jerk signals in Y dimension for the subject and the activity
+**tBodyAccJerk-mean()-Y**  
+Description: The average of the mean value of the body linear acceleration Jerk signals in Y dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAccJerk-mean()-Z**
-Description: The average of the mean value of the body linear acceleration Jerk signals in Z dimension for the subject and the activity
+**tBodyAccJerk-mean()-Z**  
+Description: The average of the mean value of the body linear acceleration Jerk signals in Z dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAccJerk-std()-X**
-Description: The average of the standard deviation of the body linear acceleration Jerk signals in X dimension for the subject and the activity
+**tBodyAccJerk-std()-X**  
+Description: The average of the standard deviation of the body linear acceleration Jerk signals in X dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAccJerk-std()-Y**
-Description: The average of the standard deviation of the body linear acceleration Jerk signals in Y dimension for the subject and the activity
+**tBodyAccJerk-std()-Y**  
+Description: The average of the standard deviation of the body linear acceleration Jerk signals in Y dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAccJerk-std()-Z**
-Description: The average of the standard deviation of the body linear acceleration Jerk signals in Z dimension for the subject and the activity
+**tBodyAccJerk-std()-Z**  
+Description: The average of the standard deviation of the body linear acceleration Jerk signals in Z dimension for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyGyro-mean()-X**
-Description: The average of the mean value of the body angular velocity signals in X dimension for the subject and the activity
+**tBodyGyro-mean()-X**  
+Description: The average of the mean value of the body angular velocity signals in X dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyro-mean()-Y**
-Description: The average of the mean value of the body angular velocity signals in Y dimension for the subject and the activity
+**tBodyGyro-mean()-Y**  
+Description: The average of the mean value of the body angular velocity signals in Y dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyro-mean()-Z**
-Description: The average of the mean value of the body angular velocity signals in Z dimension for the subject and the activity
+**tBodyGyro-mean()-Z**  
+Description: The average of the mean value of the body angular velocity signals in Z dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyro-std()-X**
-Description: The average of the standard deviation of the body angular velocity signals in X dimension for the subject and the activity
+**tBodyGyro-std()-X**  
+Description: The average of the standard deviation of the body angular velocity signals in X dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyro-std()-Y**
-Description: The average of the standard deviation of the body angular velocity signals in Y dimension for the subject and the activity
+**tBodyGyro-std()-Y**  
+Description: The average of the standard deviation of the body angular velocity signals in Y dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyro-std()-Z**
-Description: The average of the standard deviation of the body angular velocity signals in Z dimension for the subject and the activity
+**tBodyGyro-std()-Z**  
+Description: The average of the standard deviation of the body angular velocity signals in Z dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyroJerk-mean()-X**
-Description: The average of the mean value of the body angular velocity Jerk signals in X dimension for the subject and the activity
+**tBodyGyroJerk-mean()-X**  
+Description: The average of the mean value of the body angular velocity Jerk signals in X dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyroJerk-mean()-Y**
-Description: The average of the mean value of the body angular velocity Jerk signals in Y dimension for the subject and the activity
+**tBodyGyroJerk-mean()-Y**  
+Description: The average of the mean value of the body angular velocity Jerk signals in Y dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyroJerk-mean()-Z**
-Description: The average of the mean value of the body angular velocity Jerk signals in Z dimension for the subject and the activity
+**tBodyGyroJerk-mean()-Z**  
+Description: The average of the mean value of the body angular velocity Jerk signals in Z dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyroJerk-std()-X**
-Description: The average of the standard deviation of the body angular velocity Jerk signals in X dimension for the subject and the activity
+**tBodyGyroJerk-std()-X**  
+Description: The average of the standard deviation of the body angular velocity Jerk signals in X dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyroJerk-std()-Y**
-Description: The average of the standard deviation of the body angular velocity Jerk signals in Y dimension for the subject and the activity
+**tBodyGyroJerk-std()-Y**  
+Description: The average of the standard deviation of the body angular velocity Jerk signals in Y dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyroJerk-std()-Z**
-Description: The average of the standard deviation of the body angular velocity Jerk signals in Z dimension for the subject and the activity
+**tBodyGyroJerk-std()-Z**  
+Description: The average of the standard deviation of the body angular velocity Jerk signals in Z dimension for the subject and the activity  
 Unit: radians per second
 
-**tBodyAccMag-mean()**
-Description: The average of the mean value of the magnitude of the three-dimensional body acceleration signals for the subject and the activity
+**tBodyAccMag-mean()**  
+Description: The average of the mean value of the magnitude of the three-dimensional body acceleration signals for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAccMag-std()**
-Description: The average of the standard deviation of the magnitude of the three-dimensional body acceleration signals for the subject and the activity
+**tBodyAccMag-std()**  
+Description: The average of the standard deviation of the magnitude of the three-dimensional body acceleration signals for the subject and the activity  
 Unit: metre per second squared
 
-**tGravityAccMag-mean()**
-Description: The average of the mean value of the magnitude of the three-dimensional gravity acceleration signals for the subject and the activity
+**tGravityAccMag-mean()**  
+Description: The average of the mean value of the magnitude of the three-dimensional gravity acceleration signals for the subject and the activity  
 Unit: metre per second squared
 
-**tGravityAccMag-std()**
-Description: The average of the standard deviation of the magnitude of the three-dimensional gravity acceleration signals for the subject and the activity
+**tGravityAccMag-std()**  
+Description: The average of the standard deviation of the magnitude of the three-dimensional gravity acceleration signals for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAccJerkMag-mean()**
-Description: The average of the mean value of the magnitude of the three-dimensional body acceleration Jerk signals for the subject and the activity
+**tBodyAccJerkMag-mean()**  
+Description: The average of the mean value of the magnitude of the three-dimensional body acceleration Jerk signals for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyAccJerkMag-std()**
-Description: The average of the standard deviation of the magnitude of the three-dimensional body acceleration Jerk signals for the subject and the activity
+**tBodyAccJerkMag-std()**  
+Description: The average of the standard deviation of the magnitude of the three-dimensional body acceleration Jerk signals for the subject and the activity  
 Unit: metre per second squared
 
-**tBodyGyroMag-mean()**
-Description: The average of the mean value of the magnitude of the three-dimensional body angular velocity signals for the subject and the activity
+**tBodyGyroMag-mean()**  
+Description: The average of the mean value of the magnitude of the three-dimensional body angular velocity signals for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyroMag-std()**
-Description: The average of the standard deviation of the magnitude of the three-dimensional body angular velocity signals for the subject and the activity
+**tBodyGyroMag-std()**  
+Description: The average of the standard deviation of the magnitude of the three-dimensional body angular velocity signals for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyroJerkMag-mean()**
-Description: The average of the mean value of the magnitude of the three-dimensional body angular velocity Jerk signals for the subject and the activity
+**tBodyGyroJerkMag-mean()**  
+Description: The average of the mean value of the magnitude of the three-dimensional body angular velocity Jerk signals for the subject and the activity  
 Unit: radians per second
 
-**tBodyGyroJerkMag-std()**
-Description: The average of the standard deviation of the magnitude of the three-dimensional body angular velocity Jerk signals for the subject and the activity
+**tBodyGyroJerkMag-std()**  
+Description: The average of the standard deviation of the magnitude of the three-dimensional body angular velocity Jerk signals for the subject and the activity  
 Unit: radians per second
 
 
