@@ -176,5 +176,106 @@ Unit: radians per second
 Description: The average of the standard deviation of the magnitude of the three-dimensional body angular velocity Jerk signals for the subject and the activity  
 Unit: radians per second
 
+**fBodyAcc-mean()-X**  
+Description: The average of the mean value of fast fourier transformed body linear acceleration signals in X dimension  for the subject and the activity  
+Unit: metre per second squared
 
+**fBodyAcc-mean()-Y**  
+Description: The average of the mean value of fast fourier transformed body linear acceleration signals in Y dimension  for the subject and the activity  
+Unit: metre per second squared
 
+**fBodyAcc-mean()-Z**  
+Description: The average of the mean value of fast fourier transformed body linear acceleration signals in Y dimension  for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyAcc-std()-X**  
+Description: The average of the standard deviation of fast fourier transformed body linear acceleration signals in X dimension  for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyAcc-std()-Y**  
+Description: The average of the standard deviation of fast fourier transformed body linear acceleration signals in Y dimension  for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyAcc-std()-Z**  
+Description: The average of the standard deviation of fast fourier transformed body linear acceleration signals in Z dimension  for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyAccJerk-mean()-X**  
+Description: The average of the mean value of fast fourier transformed body linear acceleration Jerk signals in X dimension  for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyAccJerk-mean()-Y**  
+Description: The average of the mean value of fast fourier transformed body linear acceleration Jerk signals in Y dimension  for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyAccJerk-mean()-Z**  
+Description: The average of the mean value of fast fourier transformed body linear acceleration Jerk signals in Z dimension  for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyAccJerk-std()-X**  
+Description: The average of the standard deviation of fast fourier transformed body linear acceleration Jerk signals in X dimension  for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyAccJerk-std()-Y**  
+Description: The average of the standard deviation of fast fourier transformed body linear acceleration Jerk signals in Y dimension  for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyAccJerk-std()-Z**  
+Description: The average of the standard deviation of fast fourier transformed body linear acceleration Jerk signals in Z dimension  for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyGyro-mean()-X**  
+Description: The average of the mean value of fast fourier transformed body angular velocity signals in X dimension  for the subject and the activity  
+Unit: radians per second
+
+**fBodyGyro-mean()-Y**  
+Description: The average of the mean value of fast fourier transformed body angular velocity signals in Y dimension  for the subject and the activity  
+Unit: radians per second
+
+**fBodyGyro-mean()-Z**  
+Description: The average of the mean value of fast fourier transformed body angular velocity signals in Z dimension  for the subject and the activity  
+Unit: radians per second
+
+**fBodyGyro-std()-X**  
+Description: The average of the standard deviation of fast fourier transformed body angular velocity signals in X dimension  for the subject and the activity  
+Unit: radians per second
+
+**fBodyGyro-std()-Y**  
+Description: The average of the standard deviation of fast fourier transformed body angular velocity signals in Y dimension  for the subject and the activity  
+Unit: radians per second
+
+**fBodyGyro-std()-Z**  
+Description: The average of the standard deviation of fast fourier transformed body angular velocity signals in Z dimension  for the subject and the activity  
+Unit: radians per second
+
+**fBodyAccMag-mean()**  
+Description: The average of the mean value of fast fourier transformed magnitude of the three-dimensional body acceleration signals for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyAccMag-std()**  
+Description: The average of the standard deviation of fast fourier transformed magnitude of the three-dimensional body acceleration signals for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyBodyAccJerkMag-mean()**  
+Description: The average of the mean value of fast fourier transformed magnitude of the three-dimensional body acceleration Jerk signals for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyBodyAccJerkMag-std()**  
+Description: The average of the standard deviation of fast fourier transformed magnitude of the three-dimensional body acceleration Jerk signals for the subject and the activity  
+Unit: metre per second squared
+
+**fBodyBodyGyroMag-mean()**  
+Description: The average of the mean value of fast fourier transformed magnitude of the three-dimensional body angular velocity signals for the subject and the activity  
+Unit: radians per second
+
+**fBodyBodyGyroMag-std()**  
+Description: The average of the standard deviation of fast fourier transformed magnitude of the three-dimensional body angular velocity signals for the subject and the activity  
+Unit: radians per second
+
+**fBodyBodyGyroJerkMag-mean()**  
+Description: The average of the mean value of fast fourier transformed magnitude of the three-dimensional body angular velocity Jerk signals for the subject and the activity  
+Unit: radians per second
+
+**fBodyBodyGyroJerkMag-std()**  
+Description: The average of the standard deviation of fast fourier transformed magnitude of the three-dimensional body angular velocity Jerk signals for the subject and the activity  
+Unit: radians per second
